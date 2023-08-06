@@ -1,0 +1,1 @@
+// Write a program ehich is used to create daemon process
