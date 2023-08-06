@@ -1,0 +1,2 @@
+Number of capital characters in demo.txt are: 11
+Number of capital characters in hello.txt are: 7
